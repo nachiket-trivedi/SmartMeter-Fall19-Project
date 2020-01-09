@@ -1,0 +1,58 @@
+.carousel{
+    /* padding-top: -400px; */
+}
+.outerDiv{
+    height: 100%;
+    left:30px;
+
+}
+.jumbotronDiv{
+    float: top;
+    /* background-color: #343a40  !important;
+    color:white; */
+    /* background-image: url("https://yesofcorsa.com/wp-content/uploads/2018/05/4K-Light-Bulb-Wallpaper-Full-HD.jpg");
+    background-size: cover;
+    padding-bottom: 30px; */
+}
+body{
+    background-image: url("https://lh3.googleusercontent.com/proxy/aZrxw_2d9zPkoEEgbqT-8gmWzQlrhxhCkQGkGyRNpacnWbDsTVN-CxebJ6GiH9vm-wMXE1BmyP0-b1yaQrxYn5AO02YKI_2J0sJRincyts6CAoNwdqdtBO1XgJ6yLju2LyyfnoQAX6eW4Yqg8Pm9qv00x8D8hjgW");
+    background-size: cover; 
+}
+.carouselItem > img {
+    width:100%;
+}
+.button{
+    margin:10px
+}
+.compute{
+    /* float: right; */
+    position: fixed;
+    top:358px;
+    right: 10px;
+}
+.starterKit{
+    /* float: right; */
+    position: fixed;
+    top:294px;
+    right: 10px;
+}
+.solarPanel{
+float:left;
+clear:left;
+width: 30%;
+}
+.cards{
+    /* float:left; */
+}
+.starterButton{
+    float:right;
+    margin-right: 15px;
+}
+.containerCards{
+    padding-left:30px;
+    background-image: url("https://lh3.googleusercontent.com/proxy/aZrxw_2d9zPkoEEgbqT-8gmWzQlrhxhCkQGkGyRNpacnWbDsTVN-CxebJ6GiH9vm-wMXE1BmyP0-b1yaQrxYn5AO02YKI_2J0sJRincyts6CAoNwdqdtBO1XgJ6yLju2LyyfnoQAX6eW4Yqg8Pm9qv00x8D8hjgW") ;
+    background-size: cover; 
+}
+.header{
+    padding-left:30px;
+}
